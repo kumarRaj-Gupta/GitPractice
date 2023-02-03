@@ -1,3 +1,3 @@
-git add names.txt would have their picutre clicked . 
-git commit -m " photo khich liya gya h " 
-git status giives the status .. and the UNtracked files are the people whose photo havent been cliced yet 
+SDLKFJAKSJDFKADFOOKK
+SAKDFFAKSF 
+:
